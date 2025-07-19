@@ -59,11 +59,11 @@ This document outlines the technical specification for the MVP of a trucking per
 
 ## Development Milestones
 
-- **M1 (Week 1):** Setup environment, design UI mockups.
-- **M2 (Week 2-3):** Develop parsing engine for 5 states.
-- **M3 (Week 4):** Integrate Google Maps API and export functionality.
-- **M4 (Week 5):** Testing and bug fixing.
-- **M5 (Week 6):** Deployment and initial user feedback.
+- Setup environment, design UI mockups.
+- Develop parsing engine for 5 states.
+- Integrate Google Maps API and export functionality.
+- Testing and bug fixing.
+- Deployment
 
 ## Risks and Mitigation
 
